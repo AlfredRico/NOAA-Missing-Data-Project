@@ -40,7 +40,6 @@ venv/
 # DATA FILES (IMPORTANT)
 # =========================
 data/*
-*.csv
 *.parquet
 *.xlsx
 *.json
@@ -49,7 +48,7 @@ data/*
 # =========================
 # ALLOWED FILES
 # =========================
-
+!data/eda_missing_data_dataset2.csv
 
 
 # =========================
