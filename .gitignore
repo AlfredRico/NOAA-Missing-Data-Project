@@ -48,6 +48,7 @@ data/*
 # =========================
 # ALLOWED FILES
 # =========================
+!data/
 !data/eda_missing_data_dataset2.csv
 
 
@@ -78,9 +79,3 @@ Thumbs.db
 # =========================
 .vscode/
 .idea/
-
-# =========================
-# OPTIONAL: KEEP SAMPLE DATA
-# =========================
-# Uncomment if needed:
-# !data/eda_missing_data_dataset2.csv
